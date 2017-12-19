@@ -34,7 +34,7 @@ Keep in mind that in the bad mood for the pose you'll make a bad shot even if th
 ### Refusing the pose
 If you don't like the pose (your current mood is off or you just like to see the kitty being grumpy) you can refuse to strike it. On the top-right corner of the screen you will see the "Struggle" image and the keys you need to press to quit the photo set. 
 
-You need to follow the key squence (the image will be changing for each key pressed) to fill the Struggle progress bar.
+You need to follow the key sequence (the image will be changing for each key pressed) to fill the Struggle progress bar.
 
 ## Profile
 In the cat's room you can see your profile with all your like, followers and achievements by pressing "P" key. 
@@ -46,7 +46,7 @@ The poses are chosen by random and you can't guess the next one, but you can fin
 
 Choose the moodltes you think fit to the pose you have in mind, and refuse to pose if you'll see another request in the Instagram scene.
 
-### Likes and followers doesn't make sence!
+### Likes and followers doesn't make sense!
 Sometimes they do, some times they don't. I'm not a good game designer and was struggling to balance the game during the 3-days game jam. 
 
 Just keep in mind most of the design decisions were made in a big hurry. 
