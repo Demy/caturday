@@ -2,7 +2,9 @@
 *My Ludum Dare 38 gmae jam entry*
 
 > This game is made in 3 days during Ludum Dare 38 game jam.
+
 > Art and animation by: Zoe Fedotova
+
 
 You're playing as an Instagram modelling cat. 
 
@@ -46,6 +48,7 @@ Sometimes they do, some times they don't. I'm not a good game designer and was s
 
 Just keep in mind most of the design decisions were done in a big hurry. 
 
-This game is not perfect but I hope you'll enjoy it as much as I enjoyed writing it!
 
-GG, Demy
+*This game is not perfect but I hope you'll enjoy it as much as I enjoyed writing it!
+
+GG, Demy*
