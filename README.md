@@ -5,7 +5,7 @@
 
 > Art and animation by: Zoe Fedotova
 
-
+## About the game
 You're playing as an Instagram modelling cat. 
 
 ## Moodlets
@@ -48,7 +48,6 @@ Sometimes they do, some times they don't. I'm not a good game designer and was s
 
 Just keep in mind most of the design decisions were done in a big hurry. 
 
+*This game is not perfect but I hope you'll enjoy it as much as I enjoyed writing it!*
 
-*This game is not perfect but I hope you'll enjoy it as much as I enjoyed writing it!
-
-GG, Demy*
+GG, Demy
