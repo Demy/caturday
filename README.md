@@ -3,7 +3,7 @@
 
 > This game is made in 3 days during Ludum Dare 38 game jam.
 
-> Art and animation by: Zoe Fedotova
+> Art and animation by: Zoi Fedotova
 
 ### Jam link:
 [LD - Caturday is today](https://ldjam.com/events/ludum-dare/38/caturday-is-today)
