@@ -49,7 +49,7 @@ Choose the moodltes you think fit to the pose you have in mind, and refuse to po
 ### Likes and followers doesn't make sence!
 Sometimes they do, some times they don't. I'm not a good game designer and was struggling to balance the game during the 3-days game jam. 
 
-Just keep in mind most of the design decisions were done in a big hurry. 
+Just keep in mind most of the design decisions were made in a big hurry. 
 
 *This game is not perfect but I hope you'll enjoy it as much as I enjoyed writing it!*
 
