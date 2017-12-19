@@ -5,6 +5,9 @@
 
 > Art and animation by: Zoe Fedotova
 
+### Jam link:
+[LD - Caturday is today](https://ldjam.com/events/ludum-dare/38/caturday-is-today)
+
 ## About the game
 You're playing as an Instagram modelling cat. 
 
