@@ -1,5 +1,5 @@
 # Caturday is today
-*My Ludum Dare 38 gmae jam entry*
+*My Ludum Dare 38 game jam entry*
 
 > This game is made in 3 days during Ludum Dare 38 game jam.
 
